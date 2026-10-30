@@ -7,7 +7,8 @@ import yt_dlp
 import whisper
 import google.generativeai as genai
 
-st.set_page_title("Kixy AI Free Alternative")
+st.set_page_config(page_title="Kixy AI Free Alternative", page_icon="🎬", layout="centered")
+
 st.title("🎬 Free AI Video Clipper (Shorts Generator)")
 
 # Input for Gemini API Key & YouTube URL
