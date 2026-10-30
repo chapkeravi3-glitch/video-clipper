@@ -1,3 +1,9 @@
 streamlit
-yt-dlp
-moviepy>=2.0.0
+yt-dlp==2024.08.06
+decorator==4.4.2
+imageio==2.31.6
+imageio-ffmpeg==0.4.9
+proglog==0.1.10
+tqdm==4.66.1
+moviepy==1.0.3
+numpy<2.0.0
